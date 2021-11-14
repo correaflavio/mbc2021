@@ -1,4 +1,4 @@
-# mbc2021
+# MBC2021
 
 This is a repo created to store the Jupyter Notebook used during the Mobility Brazil 2021 event - https://www.mobilitybrazil.com.br
 
