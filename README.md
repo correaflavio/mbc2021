@@ -6,7 +6,7 @@ You can run the notebooks directly at Google Collab (Google account required). C
 
 Links:
 
-MBC 2021 First ML Examples Notebook: https://
+MBC 2021 First ML Examples Notebook: https://colab.research.google.com/drive/1joyBtmtFxWdm8F-_KhyCEfz-rY-zfwDN
 
 Running notebooks on your own PC
 
