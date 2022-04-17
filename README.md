@@ -2,7 +2,7 @@
 
 This is a repo created to store the Jupyter Notebook used during the Mobility Brazil 2021 event - https://www.mobilitybrazil.com.br
 
-You can run the notebooks directly at Google Collab (Google account required). Click on one of the links below, then under the File menu > Open in Playground. Make sure to connect to a hosted runtime (Menu Connect at the top-right portion > Connect to hosted runtime).
+You can run the notebooks directly at Google Colab (Google account required). Click on one of the links below, then under the File menu > Open in Playground. Make sure to connect to a hosted runtime (Menu Connect at the top-right portion > Connect to hosted runtime).
 
 Links:
 
